@@ -34,7 +34,10 @@ TU_ID     = "180815"
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
 TU_INSIGHT = """ 
-Descubrí que la región East tiene el margen de ganancia más bajo, con solo 1.9%, mientras que la región Central alcanza 4.5%, así que East es la región menos rentable. Recomiendo analizar las ventas y descuentos de East para detectar el problema y mejorar su margen de ganancia.
+1. Descubrí que la región East tiene el margen de ganancia más bajo, con solo 1.9%, mientras que la región Central alcanza 4.5%, así que East es la región menos rentable. Recomiendo revisar y tomar en cuenta como referencia las estrategias de la región Central para aumentar la rentabilidad de East.
+2. Decubrí que Furniture vende $579,900, pero aun así pierde $34,742 y tiene un margen de -6.0%. Recomiendo enfocarse en los productos de furniture que generan pérdidas para saber cuales están afectando la rentabilidad de la categoría.
+3. Descubrí que las ventas mensuales no son constantes porque algunos meses superan los $60,000 en ventas mientras que otros bajan hasta cerca de $20,000. Recomiendo tener más inventario en los meses de mayor venta para aprovechar mejor esos periodos y evitar que falten productos. 
+4. Descubrí que 5 de las 10 órdenes con mayores ventas son de la categoría de Office Supplies, además de que varias generan ganancias mayores a $1,200. Recomiendo fomentar la venta de esta categoría a través de promociones y más inventario para aprovechar que es la que está teniendo mejores resultados.
 """
 
 # ============================================================
