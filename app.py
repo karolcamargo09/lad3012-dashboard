@@ -33,7 +33,7 @@ TU_ID     = "180815"
 # Despues vuelves a GitHub, editas esta linea, y haces commit.
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
-TU_INSIGHT = """
+TU_INSIGHT = """ Descubrí que la región East tiene el margen de ganancia más bajo, con solo 1.9%, mientras que la región Central alcanza 4.5%, así que East es la región menos rentable. Recomiendo analizar las ventas y descuentos de East para detectar el problema y mejorar su margen de ganancia."""
 Aun no he escrito mi insight. Lo agregare despues de explorar
 los graficos y filtros de mi dashboard.
 """
