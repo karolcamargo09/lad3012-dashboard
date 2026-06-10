@@ -34,7 +34,7 @@ TU_ID     = "180815"
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
 TU_INSIGHT = """ 
-Descubrí que la región East tiene el margen de ganancia más bajo, con solo 1.9%, mientras que la región Central alcanza 4.5%, así que East es la región menos rentable. Recomiendo analizar las ventas y descuentos de East para detectar el problema y mejorar su margen de ganancia."""
+Descubrí que la región East tiene el margen de ganancia más bajo, con solo 1.9%, mientras que la región Central alcanza 4.5%, así que East es la región menos rentable. Recomiendo analizar las ventas y descuentos de East para detectar el problema y mejorar su margen de ganancia.
 """
 
 # ============================================================
